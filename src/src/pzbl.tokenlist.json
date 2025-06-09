@@ -1,0 +1,23 @@
+{
+  "name": "PZBL Token List",
+  "timestamp": "2025-06-09T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xd6a5fb585b14a882a8d60b21ff8ffeab6cc8f946",
+      "name": "Pizzaballa",
+      "symbol": "PZBL",
+      "decimals": 18,
+      "logoURI": "https://pzblcoin.com/logo.png",
+      "website": "https://pzblcoin.com",
+      "description": "PZBL is a meme token on Polygon, blending humor and charity with real utility."
+    }
+  ],
+  "keywords": ["memecoin", "polygon", "charity"]
+}
+Add PZBL token list
